@@ -125,7 +125,7 @@ div.cell.selected:before{
     padding-left:120px;
     width:100%;
     display:inline-flex;
-    align-items:center;
+    align-items:end;
     justify-content:flex-end;
 }
 
